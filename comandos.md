@@ -1,0 +1,2 @@
+- npx create-nx-workspace@19.3
+- npx g c <NomeComponente> --directory=shsared/components/header
