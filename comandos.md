@@ -1,2 +1,4 @@
 - npx create-nx-workspace@19.3
+- npx nx reset
 - npx g c <NomeComponente> --directory=shsared/components/header
+- npx nx g @nx/angular:setup-tailwind my-project
